@@ -6,6 +6,7 @@
 
 ## Added Modules
 
+- https://github.com/abiosoft/caddy-yaml
 - https://github.com/caddy-dns/cloudflare
 - https://github.com/mholt/caddy-webdav
 - https://github.com/caddyserver/forwardproxy
