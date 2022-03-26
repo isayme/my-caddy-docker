@@ -8,8 +8,10 @@
 
 - https://github.com/caddy-dns/cloudflare
 - https://github.com/mholt/caddy-webdav
+- https://github.com/caddyserver/forwardproxy
 
 # Docker Compose
+
 ```
 version: '3'
 
